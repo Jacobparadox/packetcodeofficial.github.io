@@ -1,0 +1,35 @@
+كود وضع دوري مثلا الدوري الانجليزي 
+<li>
+<div class="home-leagues" style="clear: both;"><a href="/p/african-cup-of-nations-groups.html"><img alt="كأس أمم أفريقيا" data-img="https://lh3.googleusercontent.com/-93AdaOvaTuQ/YdTDdUlG5PI/AAAAAAAAB4U/zrT4gqXkD2c0t9DyDQt69FerQyAptvd_QCNcBGAsYHQ/s0/African-Cup-of-Nations.webp" height="70" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="كأس أمم أفريقيا" width="70" /></a></div>
+</li>
+
+
+
+
+تضع بين 
+
+<ul class='leagues-list'>
+
+
+الكود السابق بينهم وتكرر الكود مع تغير محتويات كما تشاء  
+
+
+
+</li>
+
+مثال
+------------------------------------
+
+
+<ul class='leagues-list'>
+
+<li>
+<div class="home-leagues" style="clear: both;"><a href="/p/african-cup-of-nations-groups.html"><img alt="كأس أمم أفريقيا" data-img="https://lh3.googleusercontent.com/-93AdaOvaTuQ/YdTDdUlG5PI/AAAAAAAAB4U/zrT4gqXkD2c0t9DyDQt69FerQyAptvd_QCNcBGAsYHQ/s0/African-Cup-of-Nations.webp" height="70" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="كأس أمم أفريقيا" width="70" /></a></div>
+</li>
+<!-- -->
+
+<li>
+<div class="home-leagues" style="clear: both;"><a href="/p/african-cup-of-nations-groups.html"><img alt="كأس أمم أفريقيا" data-img="https://lh3.googleusercontent.com/-93AdaOvaTuQ/YdTDdUlG5PI/AAAAAAAAB4U/zrT4gqXkD2c0t9DyDQt69FerQyAptvd_QCNcBGAsYHQ/s0/African-Cup-of-Nations.webp" height="70" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="كأس أمم أفريقيا" width="70" /></a></div>
+</li>
+
+</li>
